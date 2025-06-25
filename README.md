@@ -29,6 +29,9 @@ An end-to-end data analytics project to clean, analyze, and visualize LinkedIn j
 1. Clone this repo
 2. Open the `notebooks/` and run the Python code
 3. Load the `Linkedin_Visualisation` in Power BI
+   
+## Contact
+If you have any questions or feedback, feel free to reach out via GitHub Issues or email : manishankaryalapalle@gmail.com.
 
-## License
-MIT License
+## Licence
+Copyright 2025 Mani Shankar Yalapalle. All rights reserved.
